@@ -9,4 +9,4 @@ return(
 )
 }
 
-export default ShoppingList;
+export default App;
